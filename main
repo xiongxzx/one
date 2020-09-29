@@ -1,1 +1,3 @@
-
+require'jass.common'
+require'jass.japi'
+require'jass.slk'
